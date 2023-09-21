@@ -1,7 +1,7 @@
 ### Some Offensive Cybersecurity Scripts, all of these scripts have only study purpose ⚠️
 
-<span>Bash Script Projects:</span><br />
-<a href="https://github.com/Corvo-777/brute_dns">brute_dns</a>
+<span>Python scripts:</span><br />
+<a href="https://github.com/OctavioPrado/SubStrike">SubStrike</a>
 
 <span>Utilities:</span><br />
 <a href="https://github.com/OctavioPrado/Converter">Converter</a>
